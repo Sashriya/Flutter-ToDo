@@ -25,7 +25,7 @@ class MainAppState extends State<MainApp> {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Todo List App'),
-          backgroundColor: Colors.yellow[700],
+          backgroundColor: Colors.yellow[800],
         ),
         body: Column(
           children: [
