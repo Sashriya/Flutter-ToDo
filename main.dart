@@ -44,7 +44,7 @@ class MainAppState extends State<MainApp> {
                   ),
                 ),
             MaterialButton(
-              color: Colors.blue,
+              color: Colors.lightBlue,
               height: 50,
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(18.0),
